@@ -19,4 +19,4 @@ Users have the ability to edit/delete their posted reviews.
 
 
 Users can see the other reviews of all community members. As well as a side-note, users are authenticated and assigned access and refresh tokens.
-![test](AllReviews.png)
+![test](AllReviews2.png)
