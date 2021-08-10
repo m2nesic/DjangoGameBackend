@@ -1,0 +1,2 @@
+# DjangoGameBackend
+The django backend 
